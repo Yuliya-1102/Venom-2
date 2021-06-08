@@ -1,1 +1,1 @@
-# Venom-2
+# Venom - учебный проект Glo Academy
